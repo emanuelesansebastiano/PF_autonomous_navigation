@@ -1,4 +1,12 @@
 # PF_autonomous_navigation
+
+Author: Emanuele Sansebastiano
+
+Github page: https://github.com/emanuelesansebastiano
+
+Date: January, 2017
+
+PROJECT PURPOSE:
 Algorithms to navigate an underwater autonomous vehicle along a underwater pipe.
 
 
