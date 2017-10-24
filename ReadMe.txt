@@ -15,7 +15,7 @@ The vehicle might be controlled by:
 
 In order to visualize the post-process image of the camera [PF_vision.py]
 
-DO NOT FORGET to make all the .py script executables by the following command string:
+DO NOT FORGET to make executable all the .py scripts by the following command string:
 chmod +x ~src/"script".py
 
 Required packages:
